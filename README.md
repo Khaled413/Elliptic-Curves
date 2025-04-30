@@ -1,6 +1,6 @@
 # Elliptic Curves: The Mathematical Foundation of Modern Cryptography
 
-![Project Banner](https://placehold.co/1200x400/purple/white?text=Elliptic+Curves+Visualization)
+![image](https://github.com/user-attachments/assets/cf713463-386a-472c-8e79-36524c98dedf)
 
 A modern, interactive web application that demonstrates and visualizes elliptic curves and their applications in cryptography. Built with Next.js, TypeScript, and Tailwind CSS.
 
@@ -15,16 +15,19 @@ A modern, interactive web application that demonstrates and visualizes elliptic 
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](https://placehold.co/800x600/purple/white?text=Home+Page)
-
-### Interactive Visualizer
-![Curve Visualizer](https://placehold.co/800x600/purple/white?text=Curve+Visualizer)
+![image](https://github.com/user-attachments/assets/c6d3e612-f0cb-4212-b5a5-b83917764c26)
 
 ### Educational Section
-![Educational Content](https://placehold.co/800x600/purple/white?text=Educational+Section)
+![image](https://github.com/user-attachments/assets/9506e75b-25dc-49ce-b89d-1225af3c634f)
 
 ### Practice Section
-![Practice Exercises](https://placehold.co/800x600/purple/white?text=Practice+Section)
+![image](https://github.com/user-attachments/assets/d62d5e48-e0c4-4ac6-b10f-14b2128095bb)
+
+### Encryption Section
+![image](https://github.com/user-attachments/assets/a441d8dd-8024-4102-9e96-ddc1a53204ed)
+
+### Decryption Section
+![image](https://github.com/user-attachments/assets/1361ee50-9d2e-439b-b383-d81f7f794966)
 
 ## 🚀 Getting Started
 
@@ -100,4 +103,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Your Name] 
+Made with ❤️ by [Khaled Ali] 
